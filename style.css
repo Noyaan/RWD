@@ -76,7 +76,7 @@ header a:hover{
 /* showcase ************************************/
 #showcase {
 	min-height:400px;
-	background: url("showcase.jpg") no-repeat -350px -415px; /* x y */
+	background: url("./showcase.jpg") no-repeat -350px -415px; /* x y */
 	color: #ffffff;
 	text-align: center;
 }
@@ -175,7 +175,7 @@ footer {
 		display: block;
 		height: 40px;
 		width: 100%;
-		background: url('menu.png') no-repeat 98% center;
+		background: url('./menu.png') no-repeat 98% center;
 		cursor: pointer;
 	}
 
